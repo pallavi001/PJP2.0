@@ -1,0 +1,34 @@
+New reposity->Addname->Add description->Make it public -> Remote repository created
+
+git init :To create a local repository
+
+To create local branches :
+
+git branch Dev
+git branch QA
+git branch Feature
+git branch Delivery
+master branch exists by default 
+
+To test :
+  git branch
+  Delivery
+* Dev(Current branch)
+  QA
+  feature
+  master
+  
+  
+To create remote branches :
+git push origin Dev
+git push origin QA
+git push origin Feature
+git push origin Delivery
+
+
+
+
+
+
+
+
