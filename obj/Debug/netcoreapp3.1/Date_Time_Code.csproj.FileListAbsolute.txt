@@ -1,0 +1,12 @@
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.exe
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.deps.json
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.runtimeconfig.json
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.runtimeconfig.dev.json
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.dll
+C:\Users\pl\source\repos\Date_Time_Code\bin\Debug\netcoreapp3.1\Date_Time_Code.pdb
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.AssemblyInfoInputs.cache
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.AssemblyInfo.cs
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.csproj.CoreCompileInputs.cache
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.dll
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.pdb
+C:\Users\pl\source\repos\Date_Time_Code\obj\Debug\netcoreapp3.1\Date_Time_Code.genruntimeconfig.cache
